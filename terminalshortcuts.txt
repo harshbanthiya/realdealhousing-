@@ -1,0 +1,8 @@
+Cd 
+Mkdir 
+Touch 
+Rm -rf
+Rm 
+Open
+Cd ..
+Pwd

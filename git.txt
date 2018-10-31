@@ -1,0 +1,8 @@
+Git status 
+Git Diff 
+Git log 
+Git lg 
+Git in it - to create a master 
+Git add <filename>
+Git commit —message “I did it “ 
+Git commit -m “ write a specific message” 
